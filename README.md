@@ -1,11 +1,17 @@
-# Understanding representation power of graph neural network for learning graph properties
+# Representation power of graph neural networks for learning graph properties
+
+This project investigates and compares the effectiveness of different types of graph neural networks at learning and predicting different graph properties.  
+Authors: Zhenhan Huang, Anubhav Halder, Shiuli Subhra Ghosh and Alanta Kwok. 
+
+## Featu
+
+## Synopsis
 
 Neural networks show great potential in various applications such as computer vision and natu-
 ral language processing. At the same time, it becomes uncompetitive when trained on small-scale
 datasets such as tabular datasets that is still dominated by Gradient-Boosted Decision Trees (GBDT).
 There are few studies on the representation power of graph neural network in learning graph topol-
-ogy. This project investigates and compares the effectiveness of different types of graph neural net-
-works at learning and predicting different graph properties.  
+ogy. 
 
 # Subsection  
 
