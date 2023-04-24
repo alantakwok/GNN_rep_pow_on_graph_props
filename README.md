@@ -11,4 +11,4 @@ Prior to running the codes for neural network models it is required to place all
 Similarly for visualization, one should place all results data files in the same directory.
 
 ## Results
-A detailed description of findings can be found in the Progress Report. One may also refer to `results_images` for visualizations.
+A detailed description of findings can be found in the Progress Report. One may also refer to `/results_images` for visualizations.
