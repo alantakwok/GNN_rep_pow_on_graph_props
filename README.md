@@ -7,7 +7,7 @@ Authors: Zhenhan Huang, Anubhav Halder, Shiuli Subhra Ghosh and Alanta Kwok.
 The majority of code has been implemented through Python; the NetworkX and Keras modules are required for graph generation and neural network models to run. Plot visualizations can be accessed through installation of the Jupyter Notebook module.
 
 ## Usage
-Prior to running the codes for neural network models it is required to place all graph data files in the same directory.  
+Prior to running the codes for neural network models it is required to decompress and place all graph data files in the same directory.  
 Similarly for visualization, one should place all results data (Pickle) files in the same directory.  
 Model codes and visualization notebooks can simply be executed with the option to alter parameters beforehand.
 
