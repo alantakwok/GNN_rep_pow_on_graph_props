@@ -1,1 +1,3 @@
-Contains the model outputs in the format of .csv file, and Jupyter notebooks that analyze plot visualizations of model outputs.
+Contains Jupyter notebooks that analyze plot visualizations of model outputs.
+<b>The csv file out.csv contains validation losses of the best epochs for normalized properties;
+ 
